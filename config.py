@@ -1,7 +1,7 @@
 # config.py
 
 # Google Gemini API Key for text generation
-GOOGLE_API_KEY = "AIzaSyC-Uppia-znS_xaJt6pQcoU2TKRGH-5Elo"
+GOOGLE_API_KEY = " "
 
 # Default path to save Word document
 WORD_SAVE_PATH = r"C:\Users\sanit\Documents\VoiceDoc.docx"
@@ -12,6 +12,7 @@ HF_ASR_MODEL = "openai/whisper-tiny"  # Replace with any other HF Whisper model 
 # Sentence Transformer model for semantic command matching
 HF_SEMANTIC_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 # config.py
+
 
 
 
